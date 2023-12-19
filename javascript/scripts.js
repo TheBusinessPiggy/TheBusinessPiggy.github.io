@@ -2,7 +2,7 @@
 
 //Insert here your copied web app URL between the single quotes! 
 //This web app URL is the public one! Change to your own private web app url! 
-const scriptURL = 'https://github.com/rodrigocnstest/rodrigocnstest.github.io/edit/main/javascript/scripts.js';
+const scriptURL = 'https://script.google.com/macros/s/AKfycbwtOpo-eS20kk65QO1xEzexxCJ4ofhuJGbb47_fy5m2uL05jWPO0Chuep3zf4nvV8utCw/exec';
 
 //Besides the line above, everything else in this file should be left as it is.
 //Unless you know what you are doing, or you want to fiddle with coding and learn more! :D
